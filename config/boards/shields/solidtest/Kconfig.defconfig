@@ -1,0 +1,6 @@
+if SIELD_SOLIDTEST
+
+config ZMK_KEYBOARD_NAME
+    default "solidtest"
+
+endif

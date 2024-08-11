@@ -1,0 +1,2 @@
+config SHIELD_SOLIDTEST
+    def_bool $(shield_list_contains, solidtest)
